@@ -1,13 +1,15 @@
 # Moble app for showing and saving student's grades
 
-This application was created for my personal purposes as a teacher who needs to save my students' grades of their completed assignments.
+This application was created for my personal purposes as a teacher who needs to keep my students' grades on completed assignments.
 
 #### Technologies 
+
+This software includes a client (mobile) part and a server part which is set of ASP.NET web-scripts which form Web-API used by the client (Web API returns data in the form of XML). The server part is not presented in the commit (because of containing of some sensitive data).
+
 1. Java 
 2. Android Studio / Google Android SDK / Card View API
-3. XML
-4. Web API (MS IIS/ASP.NET/C#/XML)
-5. MS SQL Server / Transact-SQL 
+3. Web API (MS IIS / C# / ASP.NET / XML)
+4. MS SQL Server / Transact-SQL 
 
 ### User interface (in Russian language)
 
