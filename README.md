@@ -7,6 +7,7 @@ This application was created for my personal purposes as a teacher who needs to 
 2. Android Studio / Google Android SDK / Card View API
 3. XML
 4. Web API (MS IIS/ASP.NET/C#/XML)
+5. MS SQL Server / Transact-SQL 
 
 ### User interface (in Russian language)
 
